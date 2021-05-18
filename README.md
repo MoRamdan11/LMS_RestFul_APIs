@@ -1,1 +1,9 @@
 # LMS_RestFull_APIs
+Implementation of a miniature Learning Management System (LMS) in the form of a RESTful API and provide HTML forms for create only.
+The system will have two entities: Course and Student. You will provide a full CRUD operations (Create, read, update and delete).
+This Project is deployed 
+# HEROKU URL
+https://mnodejsapp.herokuapp.com/
+# LMS Restful APIS Guide
+
+
