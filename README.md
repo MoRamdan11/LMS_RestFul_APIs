@@ -7,6 +7,9 @@ The system will have two entities: Course and Student. LMS_APIs will provide you
 https://lms-restful-apis.herokuapp.com/<br/>
 * Courses Path:<br/>
 &nbsp;&nbsp;&nbsp;https://lms-restful-apis.herokuapp.com/api/courses<br />
+* Students Path:<br />
+&nbsp;&nbsp;&nbsp;https://lms-restful-apis.herokuapp.com/api/students<br />
+
 
 ## Tools used:
 * Node.js
@@ -16,7 +19,3 @@ https://lms-restful-apis.herokuapp.com/<br/>
 
 ## Test APIs
 You can use Postman to test APIs:
-### Courses Path:
-&nbsp;&nbsp;&nbsp;https://lms-restful-apis.herokuapp.com/api/courses<br />
-### Students Path:
-&nbsp;&nbsp;&nbsp;https://lms-restful-apis.herokuapp.com/api/students<br />
