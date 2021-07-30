@@ -5,4 +5,6 @@ The system will have two entities: Course and Student. You will provide a full C
 # HEROKU URL
 https://mnodejsapp.herokuapp.com/
 
-
+## Tools used:
+* Node.js
+* HEROKU
