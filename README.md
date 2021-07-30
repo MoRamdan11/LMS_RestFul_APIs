@@ -20,9 +20,14 @@ https://lms-restful-apis.herokuapp.com/<br/>
 ## Test APIs
 You can use Postman to test All Requests (GET, POST, PUT, DELETE) using Paths in Code<br/>
 # POST Request Constrains:
-* Courses:
+* Courses:<br/>
 Course entity will have the following properties:<br />
 name: string, required, min length of 5 characters.<br />
 code: string, required, must match 3 letters followed by 3 numbers.<br />
 id: integer, auto generated.<br />
 description: string, optional, max length of 200 characters.<br />
+* Students: <br/>
+Student entity will have the following properties:<br/>
+name: string, required, only letters in both cases, apostrophe and dashes are allowed.<br/>
+code: string, required, must match 7 characters.<br/>
+id: integer, auto generated.<br/>
