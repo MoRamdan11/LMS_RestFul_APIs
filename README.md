@@ -14,7 +14,8 @@ https://lms-restful-apis.herokuapp.com/
 
 ## Test APIs
 You can use Postman to test APIs:
-### Get Requests
+### Courses Path:
+&nbsp;&nbsp;&nbsp;https://lms-restful-apis.herokuapp.com/api/courses<br />
 1- Courses:<br />
 &nbsp;&nbsp;&nbsp;1.1- All Courses<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://mnodejsapp.herokuapp.com/api/courses<br />
