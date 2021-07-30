@@ -25,3 +25,8 @@ You can use Postman to test APIs:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://mnodejsapp.herokuapp.com/api/students<br />
 &nbsp;&nbsp;&nbsp;2.2- Specific Student with ID:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://mnodejsapp.herokuapp.com/api/students/:id<br />
+### Post Requests
+1- Courses:<br />
+&nbsp;&nbsp;&nbsp;/api/courses
+2- Students:<br />
+&nbsp;&nbsp;&nbsp;/api/students
