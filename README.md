@@ -4,7 +4,7 @@ The system will have two entities: Course and Student. You will provide a full C
 <br />This Project is deployed on HEROKU.
 
 # HEROKU URL
-https://mnodejsapp.herokuapp.com/
+https://lms-restful-apis.herokuapp.com/
 
 ## Tools used:
 * Node.js
